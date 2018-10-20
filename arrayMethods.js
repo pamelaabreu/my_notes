@@ -268,8 +268,22 @@ console.log(`______________________________________
 
 `)
 
+/*13. array.toString()
+   The toString() method returns a string representing the specified array and its elements.
+*/
+
+console.log(`___13.array.toString() example___`)
+
+
+const random = [1, 2, 'hello','pamela','chris'];
+console.log(random.toString()); //'12hellopamelachris'
+
+console.log(`______________________________________
+
+`)
+ 
+
 //indexOf
-//toString
 //sort
 //reverse
 //join
